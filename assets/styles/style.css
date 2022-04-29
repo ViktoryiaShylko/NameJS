@@ -1,0 +1,24 @@
+.content {
+  width: 1000px;
+  height: 1343px;
+  margin: auto;
+  background-image: url(/assets/images/photo-1542880435-afda6a0019dd.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.content__btn {
+  width: 250px;
+  height: 60px;
+  border: none;
+  border-radius: 10px;
+  font-family: "Marck Script", cursive;
+  font-size: 30px;
+  color: rgb(116, 62, 113);
+}
+.content__btn:hover {
+  cursor: pointer;
+  background-color: rgb(255, 241, 254);
+}
